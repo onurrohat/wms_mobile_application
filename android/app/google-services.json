@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253039098859",
+    "firebase_url": "https://mec427inventorymanagement-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mec427inventorymanagement",
+    "storage_bucket": "mec427inventorymanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253039098859:android:9fadeef3957a41886df7ae",
+        "android_client_info": {
+          "package_name": "com.example.wms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253039098859-jl45kq70jvv3tatqj8a3uvbb5jeghben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghHzNdDhmHt33ZrBI5VKP6QE_138EDLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253039098859-jl45kq70jvv3tatqj8a3uvbb5jeghben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
